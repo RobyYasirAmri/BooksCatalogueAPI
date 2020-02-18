@@ -21,7 +21,7 @@
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "api/books",
-      "applicationUrl": "https://catalogroby-api.azurewebsites.net;http://catalogroby-api.azurewebsites.net",
+      "applicationUrl": "https://localhost:8000;http://localhost:8080",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
