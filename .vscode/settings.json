@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/76f81e4e-fea4-49eb-8036-ddb7d7a90c9a/resourceGroups/dicoding/providers/Microsoft.Web/sites/catalogroby-api"
+}
